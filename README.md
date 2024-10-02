@@ -1,5 +1,12 @@
 # 💼 Data Science Job Salaries: Exploratory Data Analysis (EDA) 📊
 
+## 📸 Screenshots
+
+[![Screenshot1](https://github.com/AlharthAlhajHussein/EDA-For-Data-Science-Job-Salaries/blob/main/report_photos/photo1.png)](https://lnkd.in/dErVzJdE)
+[![Screenshot2](https://github.com/AlharthAlhajHussein/EDA-For-Data-Science-Job-Salaries/blob/main/report_photos/photo2.png)](https://lnkd.in/dErVzJdE)
+[![Screenshot3](https://github.com/AlharthAlhajHussein/EDA-For-Data-Science-Job-Salaries/blob/main/report_photos/photo3.png)](https://lnkd.in/dErVzJdE)
+[![Screenshot4](https://github.com/AlharthAlhajHussein/EDA-For-Data-Science-Job-Salaries/blob/main/report_photos/photo4.png)](https://lnkd.in/dErVzJdE)
+
 ## 📖 Project Overview
 This project focuses on the **Exploratory Data Analysis (EDA)** of the "Data Science Job Salaries" dataset. As part of my work with **SHAI For AI | شاي للذكاء الاصطناعي**, I conducted a comprehensive analysis of data science salaries to uncover trends, factors, and regional disparities influencing compensation in this field.
 
