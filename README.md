@@ -71,4 +71,23 @@ This EDA provides an evidence-based exploration of the salary landscape in data 
 
 ---
 
-🌟 *Thank you for exploring this project! Stay tuned for more insights in data science.* 🌟
+## 🤝 Contributing
+
+Contributions are welcome! Please follow these steps to contribute:
+1. Fork the repository.
+2. Create a new feature branch (`git checkout -b feature-branch`).
+3. Make your changes and test them.
+4. Submit a pull request.
+
+---
+
+### Author: **🌟Alharth Alhaj Hussein🌟**
+
+## 🌐 Follow Me
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alharth-alhaj-hussein-023417241)  
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlharthAlhajHussein)   
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Alharth.Alhaj.Hussein)
+- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/alharthalhajhussein)
+
+
